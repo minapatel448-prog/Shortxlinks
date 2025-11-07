@@ -1,0 +1,187 @@
+{
+  "id": 88,
+  "date": "2024-02-26T14:56:21",
+  "date_gmt": "2024-02-26T14:56:21",
+  "guid": { "rendered": "https://mtcremix.com/?page_id=88" },
+  "modified": "2025-08-25T04:45:01",
+  "modified_gmt": "2025-08-25T04:45:01",
+  "slug": "about-us",
+  "status": "publish",
+  "type": "page",
+  "link": "https://mtc1.jankariweb.online/about-us/",
+  "title": { "rendered": "About us" },
+  "content": {
+    "rendered": "<p>\u00a0</p>\n<p>Welcome to <b>Shortxlinks</b>, where we believe that everyone&#8217;s financial journey deserves a unique soundtrack. <strong>&#8220;Shortxlinks&#8221;</strong> stands for &#8220;Money, Tips, and Credit Remixes.&#8221; Our platform was born from the idea that managing finances can be as dynamic and personalized as your favorite remix. Whether you&#8217;re looking to improve your credit score, find the best financial tips, or learn how to manage your money more effectively, financial.mtcremix is here to provide the remix that fits your financial rhythm.</p>\n<p>If you have any query regrading Site, Advertisement and any other issue, please feel free to contact at <strong>info@gmail.com</strong></p>\n\n\n<p></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\u00a0 Welcome to Shortxlinks, where we believe that everyone&#8217;s financial journey deserves a unique soundtrack. &#8220;Shortxlinks&#8221; stands for &#8220;Money, Tips, [&hellip;]</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": {
+    "site-sidebar-layout": "default",
+    "site-content-layout": "",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "ast-global-header-display": "",
+    "ast-banner-title-visibility": "",
+    "ast-main-header-display": "",
+    "ast-hfb-above-header-display": "",
+    "ast-hfb-below-header-display": "",
+    "ast-hfb-mobile-header-display": "",
+    "site-post-title": "",
+    "ast-breadcrumbs-content": "",
+    "ast-featured-img": "",
+    "footer-sml-layout": "",
+    "theme-transparent-header-meta": "",
+    "adv-header-id-meta": "",
+    "stick-header-meta": "",
+    "header-above-stick-meta": "",
+    "header-main-stick-meta": "",
+    "header-below-stick-meta": "",
+    "astra-migrate-meta-layouts": "default",
+    "ast-page-background-enabled": "default",
+    "ast-page-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-5)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "ast-content-background-meta": {
+      "desktop": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "tablet": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      },
+      "mobile": {
+        "background-color": "var(--ast-global-color-4)",
+        "background-image": "",
+        "background-repeat": "repeat",
+        "background-position": "center center",
+        "background-size": "auto",
+        "background-attachment": "scroll",
+        "background-type": "",
+        "background-media": "",
+        "overlay-type": "",
+        "overlay-color": "",
+        "overlay-opacity": "",
+        "overlay-gradient": ""
+      }
+    },
+    "footnotes": ""
+  },
+  "class_list": ["post-88", "page", "type-page", "status-publish", "hentry"],
+  "_links": {
+    "self": [
+      {
+        "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/pages/88",
+        "targetHints": { "allow": ["GET"] }
+      }
+    ],
+    "collection": [
+      { "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/comments?post=88"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 1,
+        "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/pages/88/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 262,
+        "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/pages/88/revisions/262"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://mtc1.jankariweb.online/wp-json/wp/v2/media?parent=88" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
